@@ -3,6 +3,10 @@
 Este repositorio solo contiene la documentacion relacionada con el desarrollo de una prótesis mioeléctrica modular del proyecto en github
 
 **[CIMA3D-Prosthesis](https://github.com/CIMA-3D/CIMA3D-Prosthesis.git)**
+## Tutoriales de uso de guihub
+- ISSUE-TEMPLATES (plantillas de incidencias)
+- Plantilla y guias para correcta compilacion
+- Manual uso github
 
 ## Documentacion administrativa
 - Actas

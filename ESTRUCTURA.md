@@ -1,6 +1,7 @@
-# Contributing to CIMA3D-Prosthesis
+# Contributing to Documentacion general
 
-Este documento define las reglas para contribuir al repositorio *Documentacion general*.
+Este documento define las reglas para contribuir al repositorio **Documentacion general**.
+
 ## Estructura general
 
 - Documentacion administrativa/ → Informes, manuales y decisiones
@@ -13,7 +14,10 @@ Este documento define las reglas para contribuir al repositorio *Documentacion g
     - [CIMA3D-Prosthesis](https://github.com/CIMA-3D/CIMA3D-Prosthesis.git)
 
 
-## Versionado de piezas
+## Versionado de piezas 3D (STL / STEP)
+
+En impresión 3D se generan múltiples iteraciones de una misma pieza.
+Para evitar confusión, se deben seguir estrictamente las siguientes normas:
 
 Todas las piezas deben subirse siguiendo el sistema de versiones:
 
