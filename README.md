@@ -2,7 +2,12 @@
 
 Este repositorio solo contiene la documentacion relacionada con el desarrollo de una prótesis mioeléctrica modular del proyecto en github
 
+**Codigo para primera protesis en placa de topos**
 **[CIMA3D-Prosthesis](https://github.com/CIMA-3D/CIMA3D-Prosthesis.git)**
+
+**Codigo para segunda protesis en PCB**
+**[CIMA3D-Prosthesis-PCB](https://github.com/CIMA-3D/CIMA3D-Prosthesis-PCB.git)**
+
 ## Tutoriales de uso de guihub
 - ISSUE-TEMPLATES (plantillas de incidencias)
 - Plantilla y guias para correcta compilacion
